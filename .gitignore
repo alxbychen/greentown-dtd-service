@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.DS_Store
+tmp/
+data/incoming/*.json
+!data/incoming/market_quotes.coverage.json

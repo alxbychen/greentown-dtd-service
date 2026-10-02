@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "greentown-dtd-service"
+version = "0.1.0"
+description = "Reproducible Distance-to-Default calculation service for Greentown China"
+requires-python = ">=3.9"
+dependencies = ["xlrd>=2.0,<3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

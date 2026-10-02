@@ -1,0 +1,13 @@
+{
+  "comparable_rows": 631,
+  "cri_missing_dtd_rows": 23,
+  "failed_rows": 0,
+  "input_date_end": "20260831",
+  "input_date_start": "20240102",
+  "input_rows": 654,
+  "max_absolute_difference": 0.0460357902370081,
+  "mean_absolute_difference": 0.004108131330745321,
+  "mean_signed_difference": -0.004076779411266346,
+  "output_path": "data/processed/computed_dtd.csv",
+  "successful_rows": 654
+}

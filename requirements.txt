@@ -1,0 +1,2 @@
+# Required to read HKMA's official legacy .xls yield table.
+xlrd>=2.0,<3

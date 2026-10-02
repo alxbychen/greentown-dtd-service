@@ -1,0 +1,5 @@
+{
+  "include": ["src", "scripts", "tests", "run_service.py"],
+  "extraPaths": ["src"],
+  "typeCheckingMode": "basic"
+}
